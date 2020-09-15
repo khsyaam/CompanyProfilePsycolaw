@@ -192,7 +192,7 @@ h6 {
 .nav-menu a {
     display: block;
     position: relative;
-    color: #124265;
+    color: #ffffff;
     transition: 0.3s;
     font-size: 14px;
     font-family: "Open Sans", sans-serif;
@@ -235,7 +235,7 @@ h6 {
     font-size: 14px;
     font-weight: 500;
     text-transform: none;
-    color: #124265;
+    color: #ffffff;
 }
 
 .nav-menu .drop-down ul a:hover,
@@ -458,7 +458,7 @@ h6 {
     font-size: 56px;
     font-weight: 700;
     line-height: 72px;
-    color: #124265;
+    color: #ffffff;
     font-family: "Poppins", sans-serif;
 }
 
@@ -508,7 +508,7 @@ h6 {
 }
 
 #hero .icon-box .title a {
-    color: #124265;
+    color: #ffffff;
     transition: 0.3s;
 }
 
@@ -581,7 +581,7 @@ section {
     text-transform: uppercase;
     margin-bottom: 20px;
     padding-bottom: 0;
-    color: #124265;
+    color: #ffffff;
 }
 
 .section-title p {
@@ -669,7 +669,7 @@ section {
     line-height: 48px;
     display: block;
     font-weight: 700;
-    color: #124265;
+    color: #ffffff;
     margin-left: 80px;
     margin: auto;
 }
@@ -694,7 +694,7 @@ section {
 .about-video .content h3 {
     font-weight: 700;
     font-size: 24px;
-    color: #124265;
+    color: #ffffff;
 }
 
 .about-video .content ul {
@@ -990,7 +990,7 @@ section {
 }
 
 .services .icon-box h4 a {
-    color: #124265;
+    color: #ffffff;
     transition: ease-in-out 0.3s;
 }
 
@@ -1307,7 +1307,7 @@ section {
 
 .team .member .social a {
     transition: color 0.3s;
-    color: #124265;
+    color: #ffffff;
     margin: 0 10px;
     padding-top: 8px;
     display: inline-block;
@@ -1330,7 +1330,7 @@ section {
     font-weight: 700;
     margin-bottom: 5px;
     font-size: 18px;
-    color: #124265;
+    color: #ffffff;
 }
 
 .team .member .member-info span {
@@ -1372,7 +1372,7 @@ section {
     font-size: 18px;
     text-transform: uppercase;
     font-weight: 600;
-    color: #124265;
+    color: #ffffff;
 }
 
 .pricing .box h4 {
@@ -1398,7 +1398,7 @@ section {
 .pricing .box ul {
     padding: 0;
     list-style: none;
-    color: #124265;
+    color: #ffffff;
     text-align: center;
     line-height: 20px;
     font-size: 14px;
@@ -1576,7 +1576,7 @@ section {
     font-size: 22px;
     font-weight: 600;
     margin-bottom: 5px;
-    color: #124265;
+    color: #ffffff;
 }
 
 .contact .info p {
@@ -1894,7 +1894,7 @@ section {
 #footer .footer-top h4 {
     font-size: 16px;
     font-weight: bold;
-    color: #124265;
+    color: #ffffff;
     position: relative;
     padding-bottom: 12px;
 }
