@@ -332,7 +332,7 @@ h6 {
 }
 
 .mobile-nav-toggle i {
-    color: #ff9102;
+    color: #fff;
 }
 
 .mobile-nav {
@@ -344,7 +344,7 @@ h6 {
     z-index: 9999;
     overflow-y: auto;
     background: #401231;
-    transition: ease-in-out 0.2s;
+    transition: ease-in-out 0.1s;
     opacity: 0;
     visibility: hidden;
     border-radius: 10px;
@@ -360,7 +360,7 @@ h6 {
 .mobile-nav a {
     display: block;
     position: relative;
-    color: #ff9102;
+    color: #fff;
     padding: 10px 20px;
     font-weight: 500;
     outline: none;
@@ -405,7 +405,7 @@ h6 {
     top: 0;
     left: 0;
     position: fixed;
-    background: rgba(10, 38, 58, 0.6);
+    background: rgba(58, 10, 52, 0.6);
     overflow: hidden;
     display: none;
     transition: ease-in-out 0.2s;
@@ -586,8 +586,8 @@ section {
 
 .section-title p {
     margin-bottom: 0;
-    font-size: 14px;
-    color: #919191;
+    font-size: 16px;
+    color: #fff;
 }
 
 
@@ -1583,7 +1583,7 @@ section {
     padding: 0 0 0 60px;
     margin-bottom: 0;
     font-size: 14px;
-    color: #217bbc;
+    color: rgb(211, 211, 211);
 }
 
 .contact .info .email,
